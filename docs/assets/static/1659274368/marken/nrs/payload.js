@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/nrs", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/nrs-m-s-guide-shirt-l-s-outdoor-hemd-nrs-5637708082.jpg":"\u002Fassets\u002Fimages\u002Fnrs-m-s-guide-shirt-l-s-outdoor-hemd-nrs-5637708082.webp"}}],fetch:{},mutations:void 0});

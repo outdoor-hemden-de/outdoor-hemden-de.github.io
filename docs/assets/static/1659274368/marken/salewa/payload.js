@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/salewa", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/salewa-fanes-flannel-4-pl-m-l-s-srt-outdoor-hemd-salewa-5637867604.jpg":"\u002Fassets\u002Fimages\u002Fsalewa-fanes-flannel-4-pl-m-l-s-srt-outdoor-hemd-salewa-5637867604.webp"}}],fetch:{},mutations:void 0});

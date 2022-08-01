@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/bergans", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/bergans-kikut-shirt-outdoor-hemd-bergans-5637692856.jpg":"\u002Fassets\u002Fimages\u002Fbergans-kikut-shirt-outdoor-hemd-bergans-5637692856.webp"}}],fetch:{},mutations:void 0});

@@ -3,7 +3,7 @@
     "hostname": "https://www.outdoor-hemden.de",
     "email": "outdoor-hemden.de@surrealnetworks.io",
     "organization": "outdoor-hemden.de",
-    "logoText": "outdoor-hemden.de",                                             
+    "logoText": "outdoor-hemden.de",
     "title": "Outdoor Hemden für Damen und Herren",
     "subline": "Der Outdoor Hemden Shop für Damen und Herren",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
@@ -14,9 +14,18 @@
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
     "popularProducts": [
-        ],                          
-    "winnerProducts": [],
-    "featuredCategories": [],
+        "5637929606",
+        "5637867117",
+        "5637856441"
+    ],
+    "winnerProducts": [
+        "5637914396",
+        "5637743937",
+        "5637914794"
+    ],
+    "featuredCategories": [
+        "Outdoor Hemden"
+    ],
     "socialMediaAccounts": [{
         "name": "Twitter",
         "link": "https://www.twitter.com/outdoor-hemden.de",

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/houdini", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/houdini-m-s-out-and-about-shirt-outdoor-hemd-houdini-5637743937.jpg":"\u002Fassets\u002Fimages\u002Fhoudini-m-s-out-and-about-shirt-outdoor-hemd-houdini-5637743937.webp"}}],fetch:{},mutations:void 0});

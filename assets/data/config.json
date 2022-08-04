@@ -39,24 +39,24 @@
         "featureText": "<p class=\"mb-4\">Ein traditionelles und funktionales Hemd für den Outdoorbereich.</p><p>Hemden für Damen und Herren ✓ Angebote ✓ Top Qualität ✓ Jetzt online bestellen im offiziellen Shop ✓ ✓</p><p>Alle Alle Hemden in unserem Shop sind qualitativ hochwertig und werden auf folgende Kriterien geprüft:</p>",
         "index": {
             "title": "Outdoor Hemden für Damen und Herren | Shop",
-            "metaDescription": "Wir bieten stilvolle Hemden aus dem Outdoorbereich an, die sowohl praktisch als auch bequem sind. Sie sind in verschiedenen Stilen und Farben erhältlich, sodass Sie auswählen können, was Ihren Anforderungen am besten entspricht.",
+            "metaDescription": "Wir bieten stilvolle Outdoor Hemden für Damen und Herren, die sowohl praktisch als auch bequem sind. Sie sind in verschiedenen Stilen und Farben erhältlich.",
             "robots": "index, follow"
         },
         "shop": {
             "title": "Alle Hemden und Marken im Überblick.",
-            "metaDescription": "Wir sind uns sicher, dass wir die besten Hemden für dich gefunden haben. Lesen Sie mehr über unsere Favoriten und warum sie so weit oben auf unserer Liste stehen!",
+            "metaDescription": "Wir haben die besten Outdoor Hemden für dich gefunden. Lesen Sie mehr über die Testsieger und Favoriten und warum sie so weit oben auf unserer Liste stehen!",
             "robots": "index, follow"
         },
         "hersteller": {
             "title": "Alle Marken für Outdoor Hemden im Überblick",
-            "metaDescription": "Ein Outdoor Hemd ist ein etablierter Stil für ein modeisches Outdoor Erlebnis und eine beliebte Wahl sowohl für Freizeit- als auch für funktionale Kleidung. Hier finden sie die bekanntesten Hersteller",
+            "metaDescription": "Ein Outdoor Hemd ist ein etablierter Stil für ein modisches Outdoor Erlebnis und eine beliebte Wahl sowohl für Freizeit- als auch für funktionale Kleidung.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
         "defaultTitle": "$PRODUKT online kaufen | Outdoor-Hemden.de Shop",
-        "defaultMetaDescription": "$PRODUKT vom $HERSTELLER günstig kaufen. Vergleiche die $PRODUKT mit anderen Produkten aus der Kategorie $KATEGORIE.",
-        "defaultRobots": "noindex, follow",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER finden Sie günstig in unserem Outdoor-Hemden-Shop. Alle Produkte sind sofort lieferbar - zum Best-Preis.",
+        "defaultRobots": "index, follow",
         "products": [{
             "sku": "5637909794",
             "name": "Ortovox PALA PANTS Kletterhose",
@@ -68,9 +68,9 @@
         }]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE | Outdoor-Hemden.de Shop",
-        "defaultMetaDescription": "Alle $KATEGORIE im Überblick. Produkte und Testsieger.",
-        "defaultRobots": "noindex, follow",
+        "defaultTitle": "$KATEGORIE | Outdoor-Hemden.de",
+        "defaultMetaDescription": "Alle Outdoor Hemden aus der Kategorie $KATEGORIE im Überblick. Best-Preis-Garantie. Jetzt online kaufen. Produkte lieferbar.",
+        "defaultRobots": "index, follow",
         "categories": [{
             "key": "sporthosen",
             "slug": "sporthosen",
@@ -84,8 +84,8 @@
     },
     "brandSeo": {
         "defaultTitle": "Produkte von $HERSTELLER | Outdoor-Hemden.de Shop",
-        "defaultMetaDescription": "Alle Produkte von $HERSTELLER im Überblick im Outdoor Hemden Shop. Best-Preis-Garantie. Beliebte Produkte und Testsieger.",
-        "defaultRobots": "noindex, follow",
+        "defaultMetaDescription": "Alle Outdoor Hemden von $HERSTELLER finden Sie in unserem Outdoor Hemden Shop zum besten Preis im Internet. Alle Produkte von $HERSTELLER sind sofort verfügbar.",
+        "defaultRobots": "index, follow",
         "brands": [{
                 "key": "Fjällräven",
                 "name": "Fjällräven",

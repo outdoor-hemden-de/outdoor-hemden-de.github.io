@@ -1,200 +1,207 @@
 {
-  "configIsReady": true,
-  "domain": "outdoor-hemden.de",
-  "hostname": "https://www.outdoor-hemden.de",
-  "email": "outdoor-hemden.de@surrealnetworks.io",
-  "organization": "outdoor-hemden.de",
-  "logoText": "outdoor-hemden.de",
-  "title": "Outdoor Hemden für Damen und Herren",
-  "subline": "Der Outdoor Hemden Shop für Damen und Herren",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "5637929606",
-    "5637867117",
-    "5637856441"
-  ],
-  "winnerProducts": [
-    "5637914396",
-    "5637743937",
-    "5637914794"
-  ],
-  "featuredCategories": [
-    "Outdoor Hemden"
-  ],
-  "socialMediaAccounts": [
-    {
-      "name": "Twitter",
-      "link": "https://www.twitter.com/outdoor-hemden.de",
-      "iconClass": "fab fa-twitter",
-      "published": false
-    }
-  ],
-  "imageQuality": 90,
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Outdoor Hemden",
-    "featureText": "<p class=\"mb-4\">Ein traditionelles und funktionales Hemd für den Outdoorbereich.</p><p>Hemden für Damen und Herren ✓ Angebote ✓ Top Qualität ✓ Jetzt online bestellen im offiziellen Shop ✓ ✓</p><p>Alle Alle Hemden in unserem Shop sind qualitativ hochwertig und werden auf folgende Kriterien geprüft:</p>",
-    "index": {
-      "title": "Outdoor Hemden für Damen und Herren | Shop",
-      "metaDescription": "Wir bieten stilvolle Outdoor Hemden für Damen und Herren, die sowohl praktisch als auch bequem sind. Sie sind in verschiedenen Stilen und Farben erhältlich.",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Outdoor Hemden",
-            "text": "Herzlich willkommen auf unserer Online-Shop-Seite für Outdoor Hemden. Wir sind stolz darauf, Ihnen eine große Auswahl an hochwertigen Hemden für alle Outdoor-Aktivitäten anbieten zu können. Unsere Hemden sind aus robusten und langlebigen Materialien hergestellt und bieten eine hervorragende Passform und Komfort für jedes Abenteuer. Wir wissen, dass es bei der Wahl des richtigen Hemds wichtig ist, dass es bequem ist und auch in den anspruchsvollsten Situationen hält. Aus diesem Grund haben wir sorgfältig ausgewählte Hemden in unserem Sortiment, die genau diesen Anforderungen gerecht werden. Ob Sie auf einer Wanderung sind, eine Bootstour unternehmen oder einfach nur draußen arbeiten, unser Outdoor Hemd wird Ihnen eine angenehme Erfahrung bieten.Stöbern Sie in unseren Kategorien und entdecken Sie die neuesten Trends und Designs in Outdoor Hemden. Wir bieten Ihnen eine breite Palette von Farben und Größen, so dass Sie das Hemd finden können, das perfekt zu Ihnen passt. Unser Ziel ist es, Ihnen ein unvergessliches Einkaufserlebnis zu bieten, und wir sind immer bereit, Ihnen bei Fragen oder Bedenken zu helfen.Vielen Dank für Ihren Besuch auf unserer Website. Wir freuen uns darauf, Ihnen bei der Suche nach dem perfekten Outdoor Hemd zu helfen."
-          },
-          {
-            "title": "Outdoor Hemden",
-            "text": "Entdecken Sie die perfekte Outdoorbekleidung für jedes Abenteuer mit unserer Auswahl an <a href=\"/kategorie/outdoor-hemden/\" title=\"Outdoor Hemden\">Outdoor Hemden</a>. Unsere Hemden sind aus hochwertigen Materialien gefertigt und bieten eine optimale Kombination aus Atmungsaktivität, Schutz und Komfort. Ob für Wanderungen, Angelausflüge oder Campingurlaube, mit unseren Outdoor Hemden sind Sie für jede Herausforderung gerüstet. Stöbern Sie jetzt durch unser Sortiment und finden Sie Ihr neues Lieblingshemd für den Outdoorsport."
-          }
+    "configIsReady": true,
+    "domain": "outdoor-hemden.de",
+    "hostname": "https://www.outdoor-hemden.de",
+    "email": "outdoor-hemden.de@surrealnetworks.io",
+    "organization": "outdoor-hemden.de",
+    "logoText": "outdoor-hemden.de",
+    "title": "Outdoor Hemden für Damen und Herren",
+    "subline": "Der Outdoor Hemden Shop für Damen und Herren",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "5637929606",
+        "5637867117",
+        "5637856441"
+    ],
+    "winnerProducts": [
+        "5637914396",
+        "5637743937",
+        "5637914794"
+    ],
+    "featuredCategories": [
+        "Outdoor Hemden"
+    ],
+    "socialMediaAccounts": [
+        {
+            "name": "Twitter",
+            "link": "https://www.twitter.com/outdoor-hemden.de",
+            "iconClass": "fab fa-twitter",
+            "published": false
+        }
+    ],
+    "imageQuality": 90,
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Outdoor Hemden",
+        "featureText": "<p class=\"mb-4\">Ein traditionelles und funktionales Hemd für den Outdoorbereich.</p><p>Hemden für Damen und Herren ✓ Angebote ✓ Top Qualität ✓ Jetzt online bestellen im offiziellen Shop ✓ ✓</p><p>Alle Alle Hemden in unserem Shop sind qualitativ hochwertig und werden auf folgende Kriterien geprüft:</p>",
+        "index": {
+            "title": "Outdoor Hemden für Damen und Herren | Shop",
+            "metaDescription": "Wir bieten stilvolle Outdoor Hemden für Damen und Herren, die sowohl praktisch als auch bequem sind. Sie sind in verschiedenen Stilen und Farben erhältlich.",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Outdoor Hemden",
+                        "text": "Herzlich willkommen auf unserer Online-Shop-Seite für Outdoor Hemden. Wir sind stolz darauf, Ihnen eine große Auswahl an hochwertigen Hemden für alle Outdoor-Aktivitäten anbieten zu können. Unsere Hemden sind aus robusten und langlebigen Materialien hergestellt und bieten eine hervorragende Passform und Komfort für jedes Abenteuer. Wir wissen, dass es bei der Wahl des richtigen Hemds wichtig ist, dass es bequem ist und auch in den anspruchsvollsten Situationen hält. Aus diesem Grund haben wir sorgfältig ausgewählte Hemden in unserem Sortiment, die genau diesen Anforderungen gerecht werden. Ob Sie auf einer Wanderung sind, eine Bootstour unternehmen oder einfach nur draußen arbeiten, unser Outdoor Hemd wird Ihnen eine angenehme Erfahrung bieten.Stöbern Sie in unseren Kategorien und entdecken Sie die neuesten Trends und Designs in Outdoor Hemden. Wir bieten Ihnen eine breite Palette von Farben und Größen, so dass Sie das Hemd finden können, das perfekt zu Ihnen passt. Unser Ziel ist es, Ihnen ein unvergessliches Einkaufserlebnis zu bieten, und wir sind immer bereit, Ihnen bei Fragen oder Bedenken zu helfen.Vielen Dank für Ihren Besuch auf unserer Website. Wir freuen uns darauf, Ihnen bei der Suche nach dem perfekten Outdoor Hemd zu helfen."
+                    },
+                    {
+                        "title": "Outdoor Hemden",
+                        "text": "Entdecken Sie die perfekte Outdoorbekleidung für jedes Abenteuer mit unserer Auswahl an <a href=\"/kategorie/outdoor-hemden/\" title=\"Outdoor Hemden\">Outdoor Hemden</a>. Unsere Hemden sind aus hochwertigen Materialien gefertigt und bieten eine optimale Kombination aus Atmungsaktivität, Schutz und Komfort. Ob für Wanderungen, Angelausflüge oder Campingurlaube, mit unseren Outdoor Hemden sind Sie für jede Herausforderung gerüstet. Stöbern Sie jetzt durch unser Sortiment und finden Sie Ihr neues Lieblingshemd für den Outdoorsport."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Alle Hemden und Marken im Überblick.",
+            "metaDescription": "Wir haben die besten Outdoor Hemden für dich gefunden. Lesen Sie mehr über die Testsieger und Favoriten und warum sie so weit oben auf unserer Liste stehen!",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Alle Marken für Outdoor Hemden im Überblick",
+            "metaDescription": "Ein Outdoor Hemd ist ein etablierter Stil für ein modisches Outdoor Erlebnis und eine beliebte Wahl sowohl für Freizeit- als auch für funktionale Kleidung.",
+            "robots": "index, follow"
+        }
+    },
+    "productSeo": {
+        "defaultTitle": "$PRODUKT online kaufen | Outdoor-Hemden.de Shop",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER finden Sie günstig in unserem Outdoor-Hemden-Shop. Alle Produkte sind sofort lieferbar - zum Best-Preis.",
+        "defaultRobots": "index, follow",
+        "products": [
+            {
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
+            },
+            {
+                "sku": "5637914396",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Icebreaker M PANKOW SS SHIRT Outdoor Hemd - Perfektes Outdoor-Bekleidung in Loden",
+                            "text": "<p class=\"justify\">Entdecken Sie das Icebreaker M PANKOW SS SHIRT Outdoor Hemd, das ideale Hemd für alle Outdoor-Aktivitäten und Abenteuer. Dieses hochwertige Hemd aus dem Hause Icebreaker überzeugt durch seine ausgezeichnete Qualität und erstklassige Verarbeitung. In der attraktiven, natürlichen Farbe Loden passt es perfekt zu jedem Outdoor-Outfit und wird schnell zum unverzichtbaren Begleiter für Wanderungen, Trekkingtouren und andere Outdoor-Aktivitäten.</p><p class=\"justify\">Das Icebreaker M PANKOW SS SHIRT Outdoor Hemd besteht aus leichtem, atmungsaktivem und strapazierfähigem Material, was für optimalen Tragekomfort und Bewegungsfreiheit sorgt. Dank der innovativen Fasern und Materialzusammensetzung bleiben Sie stets trocken und kühl, während unangenehme Gerüche durch die natürlichen Eigenschaften des Materials verhindert werden. Mit seinem klassischen Design und bequemen Schnitt ist das Hemd für Männer jeden Alters geeignet und sorgt für die perfekte Passform bei jeder Körperform.</p><p class=\"justify\">Das Icebreaker M PANKOW SS SHIRT Outdoor Hemd ist in verschiedenen Kategorien wie Start, Outdoor-Bekleidung, Outdoor Hemden und M PANKOW SS SHIRT zu finden. Dieses Outdoor Hemd hat bereits zahlreiche positive Bewertungen erhalten und beeindruckt mit einer hervorragenden 5-Sterne-Bewertung. Dies spricht für die Qualität und Zufriedenheit der Kunden, die ihr Vertrauen in die Marke Icebreaker und das M PANKOW SS SHIRT Outdoor Hemd gesetzt haben.</p><p class=\"justify\">Mit einem Preis von 139,95 Euro ist das Icebreaker M PANKOW SS SHIRT Outdoor Hemd eine Investition, die sich lohnt. Es bietet Langlebigkeit und Komfort für lange Outdoor-Ausflüge, und Sie werden es lieben, es jedes Mal zu tragen, wenn Sie das Haus verlassen, um die Natur zu erkunden. Wenn Sie auf der Suche nach dem perfekten Outdoor-Hemd sind, probieren Sie das Icebreaker M PANKOW SS SHIRT Outdoor Hemd und erleben Sie selbst den Unterschied, den hochwertige Outdoor-Bekleidung auf Ihre Abenteuer unter freiem Himmel haben kann.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5637743937",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Houdini M' S OUT AND ABOUT SHIRT Outdoor Hemd - Blue Illusion",
+                            "text": "<p class=\"justify\">Das Houdini M' S OUT AND ABOUT SHIRT Outdoor Hemd in der Farbe Blue Illusion ist das perfekte Hemd für Outdoor-Enthusiasten, die Wert auf Komfort, Stil und Nachhaltigkeit legen. Die Marke Houdini ist bekannt für ihre umweltfreundlichen Produkte und bietet hier kein Ausnahme dar. Der Artikelnummer 5637743937 lässt erkennen, dass es sich um ein authentisches Houdini Produkt handelt.</p><p class=\"justify\">Das M' S OUT AND ABOUT SHIRT gehört zur Kategorie der Outdoor Hemden und wird vor allem von Sportlern und Outdoor-Liebhabern geschätzt. Das Hemd bietet ein hohes Maß an Komfort und Funktionalität. Die verwendeten Materialien sind atmungsaktiv und ermöglichen eine gute Luftzirkulation, sodass man sich beim Tragen stets frisch fühlt. Die Farbe \"Blue Illusion\" ist nicht nur optisch ansprechend, sondern auch passend für verschiedene Outfit-Kombinationen bei Outdoor-Aktivitäten.</p><p class=\"justify\">Mit 5 Sternen bei insgesamt 259 Bewertungen zeigt dieses Outdoor Hemd, dass es in puncto Qualität und Kundenzufriedenheit überzeugt. Egal ob beim Wandern, Klettern oder Campen, das Houdini M' S OUT AND ABOUT SHIRT ist Ihr perfekter Begleiter für sämtliche Abenteuer im Freien. Dabei spielt es keine Rolle, ob Sie ein erfahrener Outdoor-Profi oder ein begeisterter Gelegenheitswanderer sind, dieser hochwertige Hemd wird Sie garantiert begeistern.</p><p class=\"justify\">Zusammenfassend ist das Houdini M' S OUT AND ABOUT SHIRT Outdoor Hemd in Blue Illusion eine hervorragende Wahl für alle, die nach einem modischen, bequemen und nachhaltigen Hemd für Outdoor-Aktivitäten suchen. Die hohe Qualität des Materials und die sorgfältige Verarbeitung sorgen dafür, dass Sie lange Freude an diesem Produkt haben werden. Begeben Sie sich also in Ihre nächste Outdoor-Abenteuer mit diesem vielseitigen Hemd von Houdini.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5637914794",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Patagonia M'S DAILY SHIRT - Outdoor Hemd in chambray: pigeon blue",
+                            "text": "<p class=\"justify\">Das Patagonia M'S DAILY SHIRT Outdoor Hemd ist ein vielseitiges Hemd von der renommierten Marke Patagonia. Mit der SKU 5637914794 und dem ansprechenden Farbton chambray: pigeon blue, ist dieses Outdoor-Hemd das perfekte Kleidungsstück für passionierte Abenteurer und Naturliebhaber.</p><p class=\"justify\">Die Marke Patagonia ist bekannt für ihre hochwertige Outdoor-Bekleidung und steht dabei auch für Nachhaltigkeit und Umweltschutz. Das M'S DAILY SHIRT ist in verschiedenen Kategorien zu finden, wie \"Start\", \"Outdoor-Bekleidung\", \"Outdoor Hemden\" und natürlich unter \"M'S DAILY SHIRT\". Dank der hohen Qualität dieses Hemds können Sie es sowohl bei sportlichen Aktivitäten als auch im Alltag tragen.</p><p class=\"justify\">Mit einem Preis von 79,95€ ist das Patagonia M'S DAILY SHIRT Outdoor Hemd in der Farbe chambray: pigeon blue eine lohnenswerte Investition. Das Hemd überzeugt mit einer herausragenden Bewertung von 5 Sternen und stolzen 326 Rezensionen. Kunden loben besonders die Robustheit, den Tragekomfort und die Langlebigkeit des Produkts.</p><p class=\"justify\">Das Design des Patagonia M'S DAILY SHIRT Outdoor Hemds ist schlicht und  einen zeitlosen Charme. Das chambray: pigeon blue bietet eine attraktive Alternative zu klassischen Farben und verleiht dem Hemd einen frischen Look. Das Hemd ist nicht nur ein optisches Highlight, sondern auch funktionell durchdacht. Die Materialien bieten exzellenten Komfort, Atmungsaktivität und eine lange Lebensdauer.</p><p class=\"justify\">Der Kauf des Patagonia M'S DAILY SHIRT Outdoor Hemds in chambray: pigeon blue bedeutet, dass Sie ein hochwertiges Kleidungsstück erwerben, das sowohl bei Outdoor-Aktivitäten als auch bei anderen Gelegenheiten getragen werden kann. Die herausragende Qualität der Marke Patagonia und die ausgezeichneten Kundenbewertungen sprechen für sich. Mit dem M'S DAILY SHIRT sind Sie bestens ausgestattet, um die Natur in ihrer ganzen Pracht zu erleben.</p>"
+                        }
+                    ]
+                }
+            }
         ]
-      }
     },
-    "shop": {
-      "title": "Alle Hemden und Marken im Überblick.",
-      "metaDescription": "Wir haben die besten Outdoor Hemden für dich gefunden. Lesen Sie mehr über die Testsieger und Favoriten und warum sie so weit oben auf unserer Liste stehen!",
-      "robots": "index, follow"
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE | Outdoor-Hemden.de",
+        "defaultMetaDescription": "Alle Outdoor Hemden aus der Kategorie $KATEGORIE im Überblick. Best-Preis-Garantie. Jetzt online kaufen. Produkte lieferbar.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Hemden günstig kaufen",
+                    "metaDescription": "Sehen Sie sich unsere neue Kollektion an der Damen und Herren Hemden mit unter anderem farbenfrohen Prints auf klassischen weißen oder blauen Hemden an.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
     },
-    "hersteller": {
-      "title": "Alle Marken für Outdoor Hemden im Überblick",
-      "metaDescription": "Ein Outdoor Hemd ist ein etablierter Stil für ein modisches Outdoor Erlebnis und eine beliebte Wahl sowohl für Freizeit- als auch für funktionale Kleidung.",
-      "robots": "index, follow"
+    "brandSeo": {
+        "defaultTitle": "Produkte von $HERSTELLER | Outdoor-Hemden.de Shop",
+        "defaultMetaDescription": "Alle Outdoor Hemden von $HERSTELLER finden Sie in unserem Outdoor Hemden Shop zum besten Preis im Internet. Alle Produkte von $HERSTELLER sind sofort verfügbar.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "Fjällräven",
+                "name": "Fjällräven",
+                "seo": {
+                    "title": "Produkte von Fjällräven günstig kaufen",
+                    "metaDescription": "Alle Produkte von Fjällräven im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            },
+            {
+                "key": "Royal Robbins",
+                "name": "Royal Robbins",
+                "seo": {
+                    "title": "Produkte von Royal Robbins günstig kaufen",
+                    "metaDescription": "Alle Produkte von Royal Robbins im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "checklist": [
+        "Material",
+        "Atmungsaktivität",
+        "Wasserfestigkeit",
+        "Komfort",
+        "Extra Funktionen",
+        "Pflegbarkeit"
+    ],
+    "navigationLinks": [
+        {
+            "title": "Home",
+            "linkTo": "/",
+            "linkTitle": "Outdoor Hemden",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Outdoor-Hemden.de Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "publish": true,
+            "linkTo": "/marken/",
+            "linkTitle": "Hemden Marken"
+        },
+        {
+            "title": "Kontakt",
+            "linkTitle": "Kontakt aufnehmen",
+            "linkTo": "#kontakt",
+            "publish": false
+        }
+    ],
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+    },
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT online kaufen | Outdoor-Hemden.de Shop",
-    "defaultMetaDescription": "$PRODUKT von $HERSTELLER finden Sie günstig in unserem Outdoor-Hemden-Shop. Alle Produkte sind sofort lieferbar - zum Best-Preis.",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "5637914396",
-        "seo": {
-          "texts": [
-            {
-              "title": "Icebreaker M PANKOW SS SHIRT Outdoor Hemd - Perfektes Outdoor-Bekleidung in Loden",
-              "text": "<p class=\"justify\">Entdecken Sie das Icebreaker M PANKOW SS SHIRT Outdoor Hemd, das ideale Hemd für alle Outdoor-Aktivitäten und Abenteuer. Dieses hochwertige Hemd aus dem Hause Icebreaker überzeugt durch seine ausgezeichnete Qualität und erstklassige Verarbeitung. In der attraktiven, natürlichen Farbe Loden passt es perfekt zu jedem Outdoor-Outfit und wird schnell zum unverzichtbaren Begleiter für Wanderungen, Trekkingtouren und andere Outdoor-Aktivitäten.</p><p class=\"justify\">Das Icebreaker M PANKOW SS SHIRT Outdoor Hemd besteht aus leichtem, atmungsaktivem und strapazierfähigem Material, was für optimalen Tragekomfort und Bewegungsfreiheit sorgt. Dank der innovativen Fasern und Materialzusammensetzung bleiben Sie stets trocken und kühl, während unangenehme Gerüche durch die natürlichen Eigenschaften des Materials verhindert werden. Mit seinem klassischen Design und bequemen Schnitt ist das Hemd für Männer jeden Alters geeignet und sorgt für die perfekte Passform bei jeder Körperform.</p><p class=\"justify\">Das Icebreaker M PANKOW SS SHIRT Outdoor Hemd ist in verschiedenen Kategorien wie Start, Outdoor-Bekleidung, Outdoor Hemden und M PANKOW SS SHIRT zu finden. Dieses Outdoor Hemd hat bereits zahlreiche positive Bewertungen erhalten und beeindruckt mit einer hervorragenden 5-Sterne-Bewertung. Dies spricht für die Qualität und Zufriedenheit der Kunden, die ihr Vertrauen in die Marke Icebreaker und das M PANKOW SS SHIRT Outdoor Hemd gesetzt haben.</p><p class=\"justify\">Mit einem Preis von 139,95 Euro ist das Icebreaker M PANKOW SS SHIRT Outdoor Hemd eine Investition, die sich lohnt. Es bietet Langlebigkeit und Komfort für lange Outdoor-Ausflüge, und Sie werden es lieben, es jedes Mal zu tragen, wenn Sie das Haus verlassen, um die Natur zu erkunden. Wenn Sie auf der Suche nach dem perfekten Outdoor-Hemd sind, probieren Sie das Icebreaker M PANKOW SS SHIRT Outdoor Hemd und erleben Sie selbst den Unterschied, den hochwertige Outdoor-Bekleidung auf Ihre Abenteuer unter freiem Himmel haben kann.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5637743937",
-        "seo": {
-          "texts": [
-            {
-              "title": "Houdini M' S OUT AND ABOUT SHIRT Outdoor Hemd - Blue Illusion",
-              "text": "<p class=\"justify\">Das Houdini M' S OUT AND ABOUT SHIRT Outdoor Hemd in der Farbe Blue Illusion ist das perfekte Hemd für Outdoor-Enthusiasten, die Wert auf Komfort, Stil und Nachhaltigkeit legen. Die Marke Houdini ist bekannt für ihre umweltfreundlichen Produkte und bietet hier kein Ausnahme dar. Der Artikelnummer 5637743937 lässt erkennen, dass es sich um ein authentisches Houdini Produkt handelt.</p><p class=\"justify\">Das M' S OUT AND ABOUT SHIRT gehört zur Kategorie der Outdoor Hemden und wird vor allem von Sportlern und Outdoor-Liebhabern geschätzt. Das Hemd bietet ein hohes Maß an Komfort und Funktionalität. Die verwendeten Materialien sind atmungsaktiv und ermöglichen eine gute Luftzirkulation, sodass man sich beim Tragen stets frisch fühlt. Die Farbe \"Blue Illusion\" ist nicht nur optisch ansprechend, sondern auch passend für verschiedene Outfit-Kombinationen bei Outdoor-Aktivitäten.</p><p class=\"justify\">Mit 5 Sternen bei insgesamt 259 Bewertungen zeigt dieses Outdoor Hemd, dass es in puncto Qualität und Kundenzufriedenheit überzeugt. Egal ob beim Wandern, Klettern oder Campen, das Houdini M' S OUT AND ABOUT SHIRT ist Ihr perfekter Begleiter für sämtliche Abenteuer im Freien. Dabei spielt es keine Rolle, ob Sie ein erfahrener Outdoor-Profi oder ein begeisterter Gelegenheitswanderer sind, dieser hochwertige Hemd wird Sie garantiert begeistern.</p><p class=\"justify\">Zusammenfassend ist das Houdini M' S OUT AND ABOUT SHIRT Outdoor Hemd in Blue Illusion eine hervorragende Wahl für alle, die nach einem modischen, bequemen und nachhaltigen Hemd für Outdoor-Aktivitäten suchen. Die hohe Qualität des Materials und die sorgfältige Verarbeitung sorgen dafür, dass Sie lange Freude an diesem Produkt haben werden. Begeben Sie sich also in Ihre nächste Outdoor-Abenteuer mit diesem vielseitigen Hemd von Houdini.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5637914794",
-        "seo": {
-          "texts": [
-            {
-              "title": "Patagonia M'S DAILY SHIRT - Outdoor Hemd in chambray: pigeon blue",
-              "text": "<p class=\"justify\">Das Patagonia M'S DAILY SHIRT Outdoor Hemd ist ein vielseitiges Hemd von der renommierten Marke Patagonia. Mit der SKU 5637914794 und dem ansprechenden Farbton chambray: pigeon blue, ist dieses Outdoor-Hemd das perfekte Kleidungsstück für passionierte Abenteurer und Naturliebhaber.</p><p class=\"justify\">Die Marke Patagonia ist bekannt für ihre hochwertige Outdoor-Bekleidung und steht dabei auch für Nachhaltigkeit und Umweltschutz. Das M'S DAILY SHIRT ist in verschiedenen Kategorien zu finden, wie \"Start\", \"Outdoor-Bekleidung\", \"Outdoor Hemden\" und natürlich unter \"M'S DAILY SHIRT\". Dank der hohen Qualität dieses Hemds können Sie es sowohl bei sportlichen Aktivitäten als auch im Alltag tragen.</p><p class=\"justify\">Mit einem Preis von 79,95€ ist das Patagonia M'S DAILY SHIRT Outdoor Hemd in der Farbe chambray: pigeon blue eine lohnenswerte Investition. Das Hemd überzeugt mit einer herausragenden Bewertung von 5 Sternen und stolzen 326 Rezensionen. Kunden loben besonders die Robustheit, den Tragekomfort und die Langlebigkeit des Produkts.</p><p class=\"justify\">Das Design des Patagonia M'S DAILY SHIRT Outdoor Hemds ist schlicht und  einen zeitlosen Charme. Das chambray: pigeon blue bietet eine attraktive Alternative zu klassischen Farben und verleiht dem Hemd einen frischen Look. Das Hemd ist nicht nur ein optisches Highlight, sondern auch funktionell durchdacht. Die Materialien bieten exzellenten Komfort, Atmungsaktivität und eine lange Lebensdauer.</p><p class=\"justify\">Der Kauf des Patagonia M'S DAILY SHIRT Outdoor Hemds in chambray: pigeon blue bedeutet, dass Sie ein hochwertiges Kleidungsstück erwerben, das sowohl bei Outdoor-Aktivitäten als auch bei anderen Gelegenheiten getragen werden kann. Die herausragende Qualität der Marke Patagonia und die ausgezeichneten Kundenbewertungen sprechen für sich. Mit dem M'S DAILY SHIRT sind Sie bestens ausgestattet, um die Natur in ihrer ganzen Pracht zu erleben.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE | Outdoor-Hemden.de",
-    "defaultMetaDescription": "Alle Outdoor Hemden aus der Kategorie $KATEGORIE im Überblick. Best-Preis-Garantie. Jetzt online kaufen. Produkte lieferbar.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Hemden günstig kaufen",
-          "metaDescription": "Sehen Sie sich unsere neue Kollektion an der Damen und Herren Hemden mit unter anderem farbenfrohen Prints auf klassischen weißen oder blauen Hemden an.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "Produkte von $HERSTELLER | Outdoor-Hemden.de Shop",
-    "defaultMetaDescription": "Alle Outdoor Hemden von $HERSTELLER finden Sie in unserem Outdoor Hemden Shop zum besten Preis im Internet. Alle Produkte von $HERSTELLER sind sofort verfügbar.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "Fjällräven",
-        "name": "Fjällräven",
-        "seo": {
-          "title": "Produkte von Fjällräven günstig kaufen",
-          "metaDescription": "Alle Produkte von Fjällräven im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "key": "Royal Robbins",
-        "name": "Royal Robbins",
-        "seo": {
-          "title": "Produkte von Royal Robbins günstig kaufen",
-          "metaDescription": "Alle Produkte von Royal Robbins im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "checklist": [
-    "Material",
-    "Atmungsaktivität",
-    "Wasserfestigkeit",
-    "Komfort",
-    "Extra Funktionen",
-    "Pflegbarkeit"
-  ],
-  "navigationLinks": [
-    {
-      "title": "Home",
-      "linkTo": "/",
-      "linkTitle": "Outdoor Hemden",
-      "publish": true
-    },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Outdoor-Hemden.de Shop",
-      "publish": true
-    },
-    {
-      "title": "Marken",
-      "publish": true,
-      "linkTo": "/marken/",
-      "linkTitle": "Hemden Marken"
-    },
-    {
-      "title": "Kontakt",
-      "linkTitle": "Kontakt aufnehmen",
-      "linkTo": "#kontakt",
-      "publish": false
-    }
-  ],
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
